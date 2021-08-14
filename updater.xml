@@ -2,6 +2,6 @@
 <item>
     <version>92.0.250.0</version>
     <url>https://duy-thanh.github.io/update-app/Setup/ChromiumSetup_92_0_205_0.exe</url>
-    <changelog>https://duy-thanh.github.io/update-app/changelog.txt</changelog
+    <changelog>https://duy-thanh.github.io/update-app/changelog.txt</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
