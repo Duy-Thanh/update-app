@@ -1,0 +1,27 @@
+Changelog:
+
+What is new in version 92.0.205.0:
+
+- Moved .NET Framework to version 4.8
+
+(CAUTION: You must install .NET Framework v4.8 before install this update
+If you cannot start app, please install .NET Framework v4.8 with link below (install both Runtime and Developer Pack):
+https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer
+https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-developer-pack-offline-installer)
+
+- Update Chromium to lastest version: 92.0.205.0
+
+- Added Search Google feature
+
+- Enabled support for Enter key pressed when user has completed input URL or Google search keyword
+
+- Fixed app crash when start
+
+- Enabled Automatic Update and automatic update when start application
+
+- Fixed UI
+
+- Enabled HDPI support
+
+We always update chromium built-in app to lastest version. This application will automatically update when new version pulled.
+If not, please select Help > Check for updates. If newer version detected, please install it.
