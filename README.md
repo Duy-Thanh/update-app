@@ -1,1 +1,1 @@
-# update-app.github.io
+# update-app server
